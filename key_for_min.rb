@@ -9,3 +9,4 @@ def key_for_min_value(name_hash)
     end
 end
 p new_value
+end
